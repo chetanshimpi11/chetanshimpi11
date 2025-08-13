@@ -1,13 +1,14 @@
-<!-- Profile README for Chetan Shimpi -->
+<!-- Professional Dark-Mode GitHub Profile README for Chetan Shimpi -->
 
-<h1 align="center">Hi 👋, I'm Chetan Shimpi</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Data Science Learner 
-  
-🎯 Passionate about building AI-powered real-world solutions.</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Chetan Shimpi</span></h1>
+<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Data Science Learner</h3>
+<h4 align="center">Passionate about building AI-powered real-world solutions</h4>
+
+---
 
 <p align="center">
   <a href="https://github.com/chetanshimpi11">
-    <img src="https://komarev.com/ghpvc/?username=chetanshimpi11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=chetanshimpi11&label=Profile%20views&color=00FFFF&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:chetanshimpi49@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -21,8 +22,9 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning (2022–2026)**
-- I am a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning. Passionate about Python development, machine learning, and data science. I enjoy building intelligent systems and solving real-world problems through data-driven solutions.
-- 📫 How to reach me: **chetanshimpi49@gmail.com**
+- 💡 Final-year student specializing in AI & ML, passionate about Python development, machine learning, and data science.
+- 🔍 I enjoy building intelligent systems and solving real-world problems through data-driven solutions.
+- 📫 **Reach me at:** `chetanshimpi49@gmail.com`
 
 ---
 
@@ -38,20 +40,20 @@
 ## 📂 Featured Projects
 
 ### 🐞 AI-Powered Bug Tracking System
-`Python` `Django` `Machine Learning`
+`Python` `Django` `Machine Learning`  
 - Auto-classifies bugs by category & priority  
 - Achieved 90%+ accuracy for category prediction  
 - Integrated real-time ML predictions in Django backend  
 [🔗 View Project](https://github.com/chetanshimpi11)
 
 ### 🎵 Music Recommendation System
-`Python` `scikit-learn` `Streamlit`
+`Python` `scikit-learn` `Streamlit`  
 - Suggests similar songs based on lyrics using TF-IDF + Cosine Similarity  
 - Dataset of 10,000+ songs from Spotify Millsong Dataset  
 [🔗 View Project](https://github.com/chetanshimpi11)
 
 ### 💰 Expense Tracker System
-`Python` `SQLite` `Streamlit`
+`Python` `SQLite` `Streamlit`  
 - Manage expenses by category & visualize monthly summaries  
 [🔗 View Project](https://github.com/chetanshimpi11)
 
@@ -67,22 +69,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark Mode)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanshimpi11&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanshimpi11&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanshimpi11&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanshimpi11&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanshimpi11&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanshimpi11&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🐍 Watch My Contribution Snake
-![Snake animation](https://github.com/chetanshimpi11/chetanshimpi11/blob/main/dist/github-contribution-grid-snake.svg)
-
+## 🐍 Watch My Contribution Snake (Dark Mode)
+<p align="center">
+  <img src="https://github.com/chetanshimpi11/chetanshimpi11/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-⭐ **"Code. Learn. Innovate."** – Always learning, always building 🚀
+<p align="center">
+  ⭐ <b>"Code. Learn. Innovate."</b> – Always learning, always building 🚀
+</p>
