@@ -31,7 +31,5 @@ jobs:
         with:
           message: "chore: update colorful snake animation"
           add: "dist/github-contribution-grid-snake.svg"
-          pull: true   # ✅ Add this line
-          ake.svg"
-          pull: true   # ✅ Add this line
-          
+         
+         
