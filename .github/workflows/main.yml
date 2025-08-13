@@ -1,31 +1,25 @@
-name: Generate Colorful Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run every day at midnight UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch: # Allow manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake (Dark + Colorful)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: chetanshimpi11
-          outputs: dist/github-contribution-grid-snake.svg
-          args: --color_snake=#00FFFF --color_dots=#FF69B4,#FFD700 --background=#0D1117
-
-      - name: Commit & Push Snake
-        uses: EndBug/add-and-commit@v9
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push snake files
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "chore: update colorful snake animation (dark)"
-          add: "dist/github-contribution-grid-snake.svg"
-          pull: true
-
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
