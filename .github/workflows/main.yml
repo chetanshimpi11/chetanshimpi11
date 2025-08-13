@@ -2,8 +2,8 @@ name: Generate Colorful Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
-  workflow_dispatch:      # Allow manual run
+    - cron: "0 0 * * *"  # Run every day at midnight UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,19 +16,16 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake (Dark + Colorful)
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: chetanshimpi11
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-          background_color: "#0D1117"  # Dark background
-          snake_color: "#00FFFF"       # Neon cyan snake
-          grid_color: "#FF69B4"        # Pink grid
-          food_color: "#FFD700"        # Gold food
+          outputs: dist/github-contribution-grid-snake.svg
+          args: --color_snake=#00FFFF --color_dots=#FF69B4,#FFD700 --background=#0D1117
 
       - name: Commit & Push Snake
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update colorful snake animation (dark)"
           add: "dist/github-contribution-grid-snake.svg"
-          pull: true   # Fix non-fast-forward error
+          pull: true
+
