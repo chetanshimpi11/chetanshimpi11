@@ -99,14 +99,15 @@
 
 ---
 
-## 📊 GitHub Stats 
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetanshimpi11&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=chetanshimpi11&theme=tokyonight" height="160" />
-</p>
-<p align="center">
+  <img src="https://github.com/USERNAME/REPO/blob/main/streak-stats.png?raw=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanshimpi11&layout=compact&theme=tokyonight" height="160" />
 </p>
+
 
 ---
 
