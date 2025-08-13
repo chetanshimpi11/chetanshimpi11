@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Colorful Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at 00:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:      # Allows manual run from GitHub Actions tab
 
 permissions:
   contents: write
@@ -21,9 +21,15 @@ jobs:
           github_user_name: chetanshimpi11
           outputs: |
             dist/github-contribution-grid-snake.svg
+          snake_color: "#00FFFF"        # Cyan snake
+          background_color: "#0D1117"   # Dark background
+          grid_color: "#FF69B4"         # Pink grid
+          food_color: "#FFD700"         # Gold food
 
       - name: Commit and push the Snake file
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: update snake animation"
+          message: "chore: update colorful snake animation"
           add: "dist/github-contribution-grid-snake.svg"
+          pull: true   # ✅ Add this line
+          
