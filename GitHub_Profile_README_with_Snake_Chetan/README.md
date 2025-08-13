@@ -1,7 +1,9 @@
 <!-- Profile README for Chetan Shimpi -->
 
 <h1 align="center">Hi 👋, I'm Chetan Shimpi</h1>
-<h3 align="center">AI & ML Enthusiast | Python Developer | Final Year AIML Student</h3>
+<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Data Science Learner 
+  
+🎯 Passionate about building AI-powered real-world solutions.</h3>
 
 <p align="center">
   <a href="https://github.com/chetanshimpi11">
@@ -19,9 +21,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning (2022–2026)**
-- 🔭 Currently working on: `FraudShield AI – Intelligent Banking Fraud Detection System`
-- 🌱 Exploring **Deep Learning** and **Generative AI**
-- 💬 Ask me about: `Python`, `Machine Learning`, `Data Science`
+- I am a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning. Passionate about Python development, machine learning, and data science. I enjoy building intelligent systems and solving real-world problems through data-driven solutions.
 - 📫 How to reach me: **chetanshimpi49@gmail.com**
 
 ---
