@@ -101,7 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetanshimpi11&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanshimpi11&theme=tokyonight" height="160" />
@@ -112,7 +112,7 @@
 
 ---
 
-## 🐍 Watch My Contribution Snake (Dark Mode)
+## 🐍 Watch My Contribution Snake 
  ![snake gif](https://github.com/chetanshimpi11/chetanshimpi11/blob/output/github-contribution-grid-snake-dark.svg)
  
 ---
