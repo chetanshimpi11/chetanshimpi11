@@ -113,8 +113,8 @@
 ---
 
 ## 🐍 Watch My Contribution Snake (Dark Mode)
-![snake gif](https://github.com/chetanshimpi11/chetanshimpi11/blob/output/github-contribution-grid-snake-dark.svg)
-
+ ![snake gif](https://github.com/chetanshimpi11/chetanshimpi11/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 ---
 
 ⭐ **"Code. Learn. Innovate."** – Always learning, always building 🚀
