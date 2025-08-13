@@ -2,8 +2,6 @@
 
 <!-- Professional Dark-Mode GitHub Profile README for Chetan Shimpi -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chetan+Shimpi;AI+%26+ML+Enthusiast;Python+Developer;Data+Science+Learner;Always+learning%2C+always+building)](https://git.io/typing-svg)
-
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Chetan Shimpi</span></h1>
 <h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Data Science Learner</h3>
@@ -41,6 +39,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+<img align="right" src="https://app.lottiefiles.com/share/a3ca7221-19f3-49bd-ae46-f852aa24f383"width="200">
+
 
 ### 📚 Libraries & Frameworks
 <p>
