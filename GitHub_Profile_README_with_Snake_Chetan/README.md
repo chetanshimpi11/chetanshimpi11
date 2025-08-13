@@ -2,6 +2,9 @@
 
 <!-- Professional Dark-Mode GitHub Profile README for Chetan Shimpi -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chetan+Shimpi;AI+%26+ML+Enthusiast;Python+Developer;Data+Science+Learner;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Chetan Shimpi</span></h1>
 <h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Data Science Learner</h3>
 <h4 align="center">Passionate about building AI-powered real-world solutions</h4>
